@@ -54,8 +54,15 @@ python main.py
 - asyncio
 - python-dotenv
 - playwright
+
 ## Requirements
 
 - Python 3.7+
 - OpenAI API key (set in environment variables)
 - Playwright browser automation framework
+
+## References
+
+- [Browser-Use](https://github.com/browser-use/browser-use)
+- [LangChain](https://github.com/langchain-ai/langchain)
+- [Playwright](https://github.com/microsoft/playwright)
